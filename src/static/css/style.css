@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  color: black;
+  background: #134A3F;
+  overflow-x: hidden;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+}
+
+ul {
+  list-style: none;
+}
+
+input {
+  min-width: 300px;
+  min-height: 45px;
+  font-size: 65%;
+}
+
+.card-list {
+  text-align: center;
+}
+
+.card-image {
+  float: left;
+}
+
+.card-item {
+  min-height: 345px;
+  margin-bottom: 2%;
+}
